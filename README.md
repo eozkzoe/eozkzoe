@@ -1,10 +1,9 @@
-## Hi there 👋
+## ✨ Welcome! ✨
 
 <!--
 **eozkzoe/eozkzoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**📞 97913739  📧 ethanong27@gmail.com**
+
+## Check out my [🌐 website](https://eozkzoe.github.io/portfolio)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,mysql)](https://skillicons.dev)
+### Tools
+[![My Tools](https://skillicons.dev/icons?i=ros,linux,opencv,unity,threejs,react,git,docker,arduino,latex,obsidian)](https://skillicons.dev)
