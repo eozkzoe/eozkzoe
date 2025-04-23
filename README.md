@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**📞 97913739  📧 ethanong27@gmail.com**
+**📧 ethanong27@gmail.com**
 
 ## Check out my [🌐 website](https://eozkzoe.github.io/portfolio)
 ### Languages
